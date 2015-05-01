@@ -6,7 +6,7 @@ oh-my-zsh style theme
 Preview
 -------
 
-![Preview](http://github.com/judgedim/oh-my-zsh-judgedim-theme/raw/master/preview.png)
+![Preview](https://github.com/judgedim/oh-my-zsh-judgedim-theme/raw/master/preview.png)
 
 Set Up
 ------
